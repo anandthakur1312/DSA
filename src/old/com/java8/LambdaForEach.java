@@ -2,9 +2,7 @@ package old.com.java8;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 
-import org.omg.CORBA.portable.ValueInputStream;
 
 public class LambdaForEach
 {	
