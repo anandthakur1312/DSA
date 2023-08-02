@@ -1,6 +1,7 @@
 package old.adapterpattern;
 
-import com.adapter.pilotpen.PilotPen;
+
+import old.com.adapter.pilotpen.PilotPen;
 
 public class PenAdapter implements Pen
 {
